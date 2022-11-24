@@ -1,0 +1,92 @@
+2022-10-31 21:15:02.870  INFO 48340 --- [main] c.x.s.AccountServiceTest                 : Starting AccountServiceTest using Java 1.8.0_31 on XMAOHOGN-YOGA14S with PID 48340 (started by 向茂鸿 in D:\ApplicationTwo\JetBrains\File\springboot\springboot\springboot_logback)
+2022-10-31 21:15:02.872  INFO 48340 --- [main] c.x.s.AccountServiceTest                 : No active profile set, falling back to 1 default profile: "default"
+2022-10-31 21:15:04.039  INFO 48340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-10-31 21:15:04.043  INFO 48340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-10-31 21:15:04.078  INFO 48340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-10-31 21:15:04.779  INFO 48340 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-31 21:15:05.091  INFO 48340 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-31 21:15:07.071  INFO 48340 --- [main] c.x.s.AccountServiceTest                 : Started AccountServiceTest in 4.631 seconds (JVM running for 6.142)
+2022-10-31 21:15:08.014 DEBUG 48340 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==>  Preparing: select * from account;
+2022-10-31 21:15:08.034 DEBUG 48340 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==> Parameters: 
+2022-10-31 21:15:08.186 DEBUG 48340 --- [main] c.x.s.mapper.AccountMapper.findAll       : <==      Total: 2
+2022-10-31 21:15:08.224  INFO 48340 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-31 21:15:08.227  INFO 48340 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-10-31 21:15:58.514  INFO 48316 --- [main] c.x.s.AccountServiceTest                 : Starting AccountServiceTest using Java 1.8.0_31 on XMAOHOGN-YOGA14S with PID 48316 (started by 向茂鸿 in D:\ApplicationTwo\JetBrains\File\springboot\springboot\springboot_logback)
+2022-10-31 21:15:58.516  INFO 48316 --- [main] c.x.s.AccountServiceTest                 : No active profile set, falling back to 1 default profile: "default"
+2022-10-31 21:15:59.331  INFO 48316 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-10-31 21:15:59.334  INFO 48316 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-10-31 21:15:59.363  INFO 48316 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2022-10-31 21:16:00.080  INFO 48316 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-31 21:16:00.379  INFO 48316 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-31 21:16:02.901  INFO 48316 --- [main] c.x.s.AccountServiceTest                 : Started AccountServiceTest in 4.833 seconds (JVM running for 6.294)
+2022-10-31 21:16:03.881 DEBUG 48316 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==>  Preparing: select * from account;
+2022-10-31 21:16:03.898 DEBUG 48316 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==> Parameters: 
+2022-10-31 21:16:03.927 DEBUG 48316 --- [main] c.x.s.mapper.AccountMapper.findAll       : <==      Total: 2
+2022-10-31 21:16:04.086  INFO 48316 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-31 21:16:04.089  INFO 48316 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-10-31 21:16:32.799  INFO 45476 --- [main] c.x.s.AccountServiceTest                 : Starting AccountServiceTest using Java 1.8.0_31 on XMAOHOGN-YOGA14S with PID 45476 (started by 向茂鸿 in D:\ApplicationTwo\JetBrains\File\springboot\springboot\springboot_logback)
+2022-10-31 21:16:32.801  INFO 45476 --- [main] c.x.s.AccountServiceTest                 : No active profile set, falling back to 1 default profile: "default"
+2022-10-31 21:16:33.636  INFO 45476 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-10-31 21:16:33.640  INFO 45476 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-10-31 21:16:33.672  INFO 45476 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-10-31 21:16:34.366  INFO 45476 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-31 21:16:34.645  INFO 45476 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-31 21:16:37.141  INFO 45476 --- [main] c.x.s.AccountServiceTest                 : Started AccountServiceTest in 4.81 seconds (JVM running for 6.323)
+2022-10-31 21:16:38.091 DEBUG 45476 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==>  Preparing: select * from account;
+2022-10-31 21:16:38.114 DEBUG 45476 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==> Parameters: 
+2022-10-31 21:16:38.139 DEBUG 45476 --- [main] c.x.s.mapper.AccountMapper.findAll       : <==      Total: 2
+2022-10-31 21:16:38.330  INFO 45476 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-31 21:16:38.333  INFO 45476 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-10-31 21:17:15.430  INFO 28824 --- [main] c.x.s.AccountServiceTest                 : Starting AccountServiceTest using Java 1.8.0_31 on XMAOHOGN-YOGA14S with PID 28824 (started by 向茂鸿 in D:\ApplicationTwo\JetBrains\File\springboot\springboot\springboot_logback)
+2022-10-31 21:17:15.432  INFO 28824 --- [main] c.x.s.AccountServiceTest                 : No active profile set, falling back to 1 default profile: "default"
+2022-10-31 21:17:16.275  INFO 28824 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-10-31 21:17:16.279  INFO 28824 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-10-31 21:17:16.309  INFO 28824 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-10-31 21:17:17.007  INFO 28824 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-31 21:17:17.330  INFO 28824 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-31 21:17:19.863  INFO 28824 --- [main] c.x.s.AccountServiceTest                 : Started AccountServiceTest in 4.848 seconds (JVM running for 6.274)
+2022-10-31 21:17:20.830 DEBUG 28824 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==>  Preparing: select * from account;
+2022-10-31 21:17:20.853 DEBUG 28824 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==> Parameters: 
+2022-10-31 21:17:20.883 DEBUG 28824 --- [main] c.x.s.mapper.AccountMapper.findAll       : <==      Total: 2
+2022-10-31 21:17:21.084  INFO 28824 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-31 21:17:21.087  INFO 28824 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-10-31 21:20:16.165  INFO 36340 --- [main] c.x.s.AccountServiceTest                 : Starting AccountServiceTest using Java 1.8.0_31 on XMAOHOGN-YOGA14S with PID 36340 (started by 向茂鸿 in D:\ApplicationTwo\JetBrains\File\springboot\springboot\springboot_logback)
+2022-10-31 21:20:16.166  INFO 36340 --- [main] c.x.s.AccountServiceTest                 : No active profile set, falling back to 1 default profile: "default"
+2022-10-31 21:20:17.065  INFO 36340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-10-31 21:20:17.071  INFO 36340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-10-31 21:20:17.104  INFO 36340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2022-10-31 21:20:17.829  INFO 36340 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-31 21:20:18.094  INFO 36340 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-31 21:20:20.191  INFO 36340 --- [main] c.x.s.AccountServiceTest                 : Started AccountServiceTest in 4.51 seconds (JVM running for 6.027)
+2022-10-31 21:20:21.169 DEBUG 36340 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==>  Preparing: select * from account;
+2022-10-31 21:20:21.186 DEBUG 36340 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==> Parameters: 
+2022-10-31 21:20:21.212 DEBUG 36340 --- [main] c.x.s.mapper.AccountMapper.findAll       : <==      Total: 2
+2022-10-31 21:20:21.402  INFO 36340 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-31 21:20:21.405  INFO 36340 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-10-31 21:22:53.240  INFO 36832 --- [main] c.x.s.AccountServiceTest                 : Starting AccountServiceTest using Java 1.8.0_31 on XMAOHOGN-YOGA14S with PID 36832 (started by 向茂鸿 in D:\ApplicationTwo\JetBrains\File\springboot\springboot\springboot_logback)
+2022-10-31 21:22:53.274  INFO 36832 --- [main] c.x.s.AccountServiceTest                 : No active profile set, falling back to 1 default profile: "default"
+2022-10-31 21:22:54.092  INFO 36832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-10-31 21:22:54.096  INFO 36832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-10-31 21:22:54.127  INFO 36832 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2022-10-31 21:22:54.857  INFO 36832 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-31 21:22:55.116  INFO 36832 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-31 21:22:57.121  INFO 36832 --- [main] c.x.s.AccountServiceTest                 : Started AccountServiceTest in 4.338 seconds (JVM running for 6.001)
+2022-10-31 21:22:58.069 DEBUG 36832 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==>  Preparing: select * from account;
+2022-10-31 21:22:58.089 DEBUG 36832 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==> Parameters: 
+2022-10-31 21:22:58.110 DEBUG 36832 --- [main] c.x.s.mapper.AccountMapper.findAll       : <==      Total: 2
+2022-10-31 21:22:58.280  INFO 36832 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-31 21:22:58.283  INFO 36832 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-10-31 21:23:45.050  INFO 23512 --- [main] c.x.s.AccountServiceTest                 : Starting AccountServiceTest using Java 1.8.0_31 on XMAOHOGN-YOGA14S with PID 23512 (started by 向茂鸿 in D:\ApplicationTwo\JetBrains\File\springboot\springboot\springboot_logback)
+2022-10-31 21:23:45.052  INFO 23512 --- [main] c.x.s.AccountServiceTest                 : No active profile set, falling back to 1 default profile: "default"
+2022-10-31 21:23:45.894  INFO 23512 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2022-10-31 21:23:45.900  INFO 23512 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-10-31 21:23:45.931  INFO 23512 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-10-31 21:23:46.639  INFO 23512 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-31 21:23:46.946  INFO 23512 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-31 21:23:49.434  INFO 23512 --- [main] c.x.s.AccountServiceTest                 : Started AccountServiceTest in 4.819 seconds (JVM running for 6.419)
+2022-10-31 21:23:49.697 DEBUG 23512 --- [main] c.x.s.service.AccountService             : 查询所有用户
+2022-10-31 21:23:50.402 DEBUG 23512 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==>  Preparing: select * from account;
+2022-10-31 21:23:50.426 DEBUG 23512 --- [main] c.x.s.mapper.AccountMapper.findAll       : ==> Parameters: 
+2022-10-31 21:23:50.451 DEBUG 23512 --- [main] c.x.s.mapper.AccountMapper.findAll       : <==      Total: 2
+2022-10-31 21:23:50.655  INFO 23512 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-31 21:23:50.657  INFO 23512 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
